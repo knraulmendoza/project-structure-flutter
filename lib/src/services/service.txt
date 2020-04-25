@@ -1,0 +1,4 @@
+Aquí es donde estarán todos los archivos dart que nos permitiran conectarnos a las API.
+Puedes crear un archivo generico para las peticiones (CRUD) y poder utilizarlas en todas.
+
+Ten en cuenta que por cada entidad debes crear un servicio, esto por el patron de diseño SOLID.

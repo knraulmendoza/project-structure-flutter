@@ -1,0 +1,15 @@
+Esta es la base de todas las entidades. que quiere decir, que todas las entidades heredan de baseentity
+
+aquí por lo general están los atributos como: id, createdAt, updatedAt
+
+class BaseEntity {
+    string createdAt, updatedAt;
+    BaseEntity();
+}
+
+class Entity extends BaseEntity {
+    int id;
+    Entity(id): super();
+}
+
+si sabes bastante de POO puedes utilizar poliformismo.

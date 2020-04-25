@@ -1,0 +1,9 @@
+Bueno aquí dentro de esta carpeta es donde estarán todas las entidades de objetos como las que te
+mencione en el "domain.txt" y estos heredan de Entity. ejemplo:
+
+class Person extends Entity {
+    string name;
+    Person(int id, string name): super(id);
+}
+
+esto es solamente Herencia.

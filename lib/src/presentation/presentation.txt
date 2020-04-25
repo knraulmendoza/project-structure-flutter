@@ -1,0 +1,5 @@
+Esta parte es lo más sencillo de entender aquí es donde tendras todos tus widgets y estados de tu aplicación.
+que los divido en 3 carpetas, 2 para mi son obligatorias y 1 opcional.
+
+pages y widgets obligatorios
+providers es opcional, en que sentido?. en que puedes utilizar otros patrones de estados de la APP como pueden ser BLOC, REDUX entre otros.

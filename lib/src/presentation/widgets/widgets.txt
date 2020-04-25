@@ -1,0 +1,1 @@
+Aquí tendras todos los widgets que son genericos, osea que puedes reutilizar en varias pages.

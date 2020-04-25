@@ -1,0 +1,7 @@
+Aquí como te comete en el archivo "presentation.txt" esto depende del patron que desees utilizar yo utilizo
+el patron Provider es muy sencillo de utilizar. 
+
+Y aca por cada página donde deba tener un cambio de estado o pasar datos de un widget a otro en una misma page, creas un provider para esa página y así con todas.
+
+
+este tema depronto sea confuso para tí ahora así es que te recomiendo que primero aprendas flutter bien.

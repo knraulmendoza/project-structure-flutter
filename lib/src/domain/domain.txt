@@ -1,0 +1,8 @@
+Dentro de esta carpeta estará todo relacionado con los objetos del proyecto por ejmplo:
+Person.dart
+User.dart
+Entity.dart
+BaseEntity.dart 
+
+
+entre otras, pero este es solo una carpeta contenedora de entidades
